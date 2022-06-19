@@ -35,5 +35,5 @@ headTitle = "SiameseCat"
 [markup.goldmark.renderer]
   unsafe = true
 
-[markup.tableOfContents]
-  ordered = true
+  [markup.tableOfContents]
+    ordered = true

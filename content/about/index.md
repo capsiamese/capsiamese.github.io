@@ -5,3 +5,5 @@ draft: false
 ---
 
 Hi i am a siamese cat.
+
+![](/img/cat.jpg)
