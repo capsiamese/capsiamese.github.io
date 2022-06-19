@@ -1,0 +1,39 @@
+baseURL = 'https://capsiamese.vercel.app/'
+languageCode = 'en-US'
+theme = "etch"
+title = 'SiameseCat'
+DefaultContentLanguage = "cn"
+enableInlineShortcodes = true
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+headTitle = "SiameseCat"
+
+[params]
+  description = "website about a siamese cat"
+  copyright = "Copyright © 2022 SiameseCat"
+  dark = "auto"
+  highlight = true
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "posts"
+    title = "posts"
+    url = "/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    title = "about"
+    url = "/about/"
+    weight = 20
+
+[permalinks]
+  posts = "/:title/"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[markup.tableOfContents]
+  ordered = true
