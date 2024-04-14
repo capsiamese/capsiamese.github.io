@@ -2,14 +2,8 @@
     "title":"Blog Title",
     "subTitle":"Blog description",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "singlePage": [
-        "link", "about"
-    ],
-    "iconList": [
-        
-    ],
-    "exlink": {
-        "notepad": "https://note.qzzz.xyz"
-    },
+    "singlePage":["link","about"],
+    "iconList": [],
+    "exlink":{"notepad":"https://note.qzzz.xyz"},
     "GMEEK_VERSION":"last"
 }
