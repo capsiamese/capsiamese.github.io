@@ -1,6 +1,7 @@
 # introduction
 [TkReference](https://tcl.tk/man/tcl8.6/TkCmd/contents.htm)
 
+[Tkinter8.5Tutor](https://anzeljg.github.io/rin2/book2/2405/docs/tkinter/index.html)
 [TkDocs](https://tkdocs.com/tutorial/intro.html)
 [pyguis](https://www.pythonguis.com/tkinter-tutorial/)
 [pythonTutorial](https://www.pythontutorial.net/tkinter/)
