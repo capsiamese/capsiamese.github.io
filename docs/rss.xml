@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://capsiamese.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://capsiamese.github.io</link></image><lastBuildDate>Sun, 21 Apr 2024 13:32:06 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>Temporary</title><link>https://capsiamese.github.io/post/Temporary.html</link><description>https://spiderbox.cn/&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://capsiamese.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://capsiamese.github.io</link></image><lastBuildDate>Tue, 30 Apr 2024 06:14:44 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>Temporary</title><link>https://capsiamese.github.io/post/Temporary.html</link><description>https://spiderbox.cn/&#13;
 https://blog.vvzero.com/2022/09/18/Ethernet-Wiring/。</description><guid isPermaLink="true">https://capsiamese.github.io/post/Temporary.html</guid><pubDate>Sun, 21 Apr 2024 13:31:43 +0000</pubDate></item><item><title>Tkinter笔记</title><link>https://capsiamese.github.io/post/Tkinter-bi-ji.html</link><description># introduction&#13;
 [TkReference](https://tcl.tk/man/tcl8.6/TkCmd/contents.htm)&#13;
 &#13;
@@ -157,7 +157,7 @@ canvas = Canvas(parent,width,height,background)&#13;
 5. canvas.create_arc&#13;
 6. canvas.create_image&#13;
 7. canvas.create_text&#13;
-8. canvas.create_window。</description><guid isPermaLink="true">https://capsiamese.github.io/post/Tkinter-bi-ji.html</guid><pubDate>Thu, 18 Apr 2024 09:08:07 +0000</pubDate></item><item><title>博客参考</title><link>https://capsiamese.github.io/post/bo-ke-can-kao.html</link><description>[金步国](https://www.jinbuguo.com/)&#13;
+8. canvas.create_window。</description><guid isPermaLink="true">https://capsiamese.github.io/post/Tkinter-bi-ji.html</guid><pubDate>Thu, 18 Apr 2024 09:08:07 +0000</pubDate></item><item><title>博客参考</title><link>https://capsiamese.github.io/post/bo-ke-can-kao.html</link><description>[戴夫切尼](https://dave.cheney.net/)&#13;
 [骏马金龙](https://www.junmajinlong.com/)&#13;
 [Lode's Computer Graphics Tutorial雷神之锤光线衍射](https://lodev.org/cgtutor/)&#13;
 &#13;
